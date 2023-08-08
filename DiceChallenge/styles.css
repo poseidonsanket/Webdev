@@ -39,3 +39,18 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.btn {
+  margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-style{ 
+  width: 10%;
+  height: 3%;
+  background-color: red;
+  color: #EEEEEE;
+
+}
